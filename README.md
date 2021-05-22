@@ -24,7 +24,7 @@ computador.</p>
   <p>⚫ digite: git clone https://github.com/devThalyson/api-mercado.git</p>
   <p>⚫ Abrir o Eclipse que contêm o Spring Tool Suite</p>
   <p>⚫ Importe o projeto clonado (link para o tutorial de como importar um projeto Spring: https://medium.com/@alex.girao/importar-um-projeto-maven-spring-boot-ea10078b2bde)</p>
-  <p>⚫ Configure o arquivo application.properties (ApiMercado/src/main/resources) e insira os dados do seu banco dados e email (para funcionalidades como 
+  <p>⚫ Configure o arquivo application.properties (ApiMercado/src/main/resources) e insira os dados do seu banco de dados e email (para funcionalidades como 
   "recuperação de senha"). Link de tutorial para a configuração do MySQL WorkBench com o Spring: https://www.gasparbarancelli.com/post/banco-de-dados-mysql-com-spring-boot e link
   de tutorial para a configuração do Postgres com o Spring: https://cursos.alura.com.br/forum/topico-como-configurar-postgres-para-springboot-86299</p>
   <p>⚫ Por fim, no lado superior esquerdo de seu Eclipse deve aparecer o projeto com o nome "MercadoApi". Clique com o botão direito do mouse sobre ele e em "Run As"
