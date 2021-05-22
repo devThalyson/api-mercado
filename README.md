@@ -30,4 +30,4 @@ computador.</p>
   <p>⚫ Por fim, no lado superior esquerdo de seu Eclipse deve aparecer o projeto com o nome "MercadoApi". Clique com o botão direito do mouse sobre ele e em "Run As"
   clique em Spring Boot App</p>
   
- <h3> Se os passos forem seguidos corretamente, nenhum erro ocorrerá e nossa aplicação vai estar pronta para servir como back-end do nossos Apps de Mercado.</h3>
+ <h3> Se os passos forem seguidos corretamente, nenhum erro ocorrerá e nossa aplicação vai estar pronta para servir como back-end dos nossos Apps de Mercado.</h3>
