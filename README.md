@@ -2,7 +2,7 @@
 
 <h2>📢 Descrição do Repositório 📢: </h2>
 <p> Esse repositório abriga uma API REST construída com a linguagem de programação Java e o Framework Spring Boot. Essa API é o back-end das seguintes aplicações móveis: 
-"link_app_mercado_cliente_aqui" e "link_app_mercado_gerente_aqui". O principal objetivo desta aplicação é sevir de ponte para inserções, deleções, atualizações e consultas 
+https://github.com/devThalyson/app-mercado-cliente e "link_app_mercado_gerente_aqui". O principal objetivo desta aplicação é sevir de ponte para inserções, deleções, atualizações e consultas 
 de: Usuários, Categorias de produtos, Produtos, Compras e etc. Também funciona como ferramenta de envio de e-mails para usuários que por ventura tenham esquecido sua senha.
 Abriga também um WebSocket utilizado com a finalidade de aplicar atualizações em tempo real nas aplicações front-end citadas acima.
 
